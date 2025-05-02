@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Abi Dickson</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
-<img align="right" alt="Coding" width="400" src="[https://images.app.goo.gl/3791SQCBZSRHUzoe9](https://tenor.com/search/programmer-gifs)">
+<img src="https://images.app.goo.gl/3791SQCBZSRHUzoe9(https://tenor.com/search/programmer-gifs)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abidickson84&label=Profile%20views&color=0e75b6&style=flat" alt="abidickson84" /> </p>
 
